@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places_array">
+        <item>Эйфелева башня</item>
+        <item>Лувр</item>
+        <item>Нотр-Дам-де-Пари</item>
+        <item>Триумфальная арка</item>
+        <item>Мулен Руж</item>
+        <item>Сакре-Кер</item>
+        <item>Пантеон</item>
+        <item>Люксембургский сад</item>
+        <item>Люксембургский дворец</item>
+        <item>Опера Гарнье</item>
+    </string-array>
+    <string-array name="about_array">
+        <item>Население</item>
+        <item>Географическое положение</item>
+        <item>Климат</item>
+        <item>Административное деление</item>
+        <item>Общественный транспорт</item>
+        <item>Еда</item>
+    </string-array>
+
+
+</resources>
